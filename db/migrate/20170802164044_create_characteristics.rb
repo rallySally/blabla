@@ -5,6 +5,11 @@ class CreateCharacteristics < ActiveRecord::Migration
       t.integer :karmalevel
 
       t.timestamps null: false
+
+
+
+
+      
     end
   end
 end
